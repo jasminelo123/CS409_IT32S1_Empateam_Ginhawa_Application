@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Maginhawa",
+    "slug": "Maginhawa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./img/maginhawa.png",
+    "splash": {
+      "image": "./img/1.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.Proj.Maginhawa"
+      }
+    }
+}
+
